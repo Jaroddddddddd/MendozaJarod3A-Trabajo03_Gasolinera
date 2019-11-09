@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Trabajo03-Gasolinera/1.0.0": {
+        "runtime": {
+          "Trabajo03-Gasolinera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo03-Gasolinera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

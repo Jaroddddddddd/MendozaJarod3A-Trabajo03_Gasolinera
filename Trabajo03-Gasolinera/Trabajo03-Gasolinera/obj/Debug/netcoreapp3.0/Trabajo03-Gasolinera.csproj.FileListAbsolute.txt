@@ -1,0 +1,11 @@
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\bin\Debug\netcoreapp3.0\Trabajo03-Gasolinera.exe
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\bin\Debug\netcoreapp3.0\Trabajo03-Gasolinera.deps.json
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\bin\Debug\netcoreapp3.0\Trabajo03-Gasolinera.runtimeconfig.json
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\bin\Debug\netcoreapp3.0\Trabajo03-Gasolinera.runtimeconfig.dev.json
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\bin\Debug\netcoreapp3.0\Trabajo03-Gasolinera.dll
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\bin\Debug\netcoreapp3.0\Trabajo03-Gasolinera.pdb
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\obj\Debug\netcoreapp3.0\Trabajo03-Gasolinera.csprojAssemblyReference.cache
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\obj\Debug\netcoreapp3.0\Trabajo03-Gasolinera.AssemblyInfoInputs.cache
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\obj\Debug\netcoreapp3.0\Trabajo03-Gasolinera.AssemblyInfo.cs
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\obj\Debug\netcoreapp3.0\Trabajo03-Gasolinera.dll
+C:\Users\Jarod\source\repos\Trabajo03-Gasolinera\Trabajo03-Gasolinera\obj\Debug\netcoreapp3.0\Trabajo03-Gasolinera.pdb
